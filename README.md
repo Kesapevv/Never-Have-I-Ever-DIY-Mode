@@ -1,5 +1,5 @@
 # Never Have I Ever - DIY Mode
-#### Never Have I Ever - DIY Mode - Игра, созданная для того, чтобы попрактиковаться в использовании Google Firebase, а так же вертски UI в Storyboard. ТЗ было найдено на просторах интернета, дизайн свой.
+#### Never Have I Ever - DIY Mode - Игра, созданная с целью практики в использовании Google Firebase, а так же вертски UI в Storyboard. ТЗ было найдено на просторах интернета, дизайн свой.
 #### [Ссылка на AppStore](https://apps.apple.com/us/app/never-have-i-ever-diy-mode/id1617460424)
 
 # Используемый стек:
